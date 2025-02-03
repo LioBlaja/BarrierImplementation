@@ -1,0 +1,252 @@
+MEASUREMENT NO 1:1
+============
+THREADS NUMBER:2
+REPEATS NUMBER:10
+The default barrier execution time:17.014853
+The custom barrier execution time:18.005806
+MEASUREMENT NO 1:2
+============
+THREADS NUMBER:2
+REPEATS NUMBER:10
+The default barrier execution time:18.004980
+The custom barrier execution time:19.004173
+MEASUREMENT NO 1:3
+============
+THREADS NUMBER:2
+REPEATS NUMBER:10
+The default barrier execution time:15.004061
+The custom barrier execution time:18.004284
+MEASUREMENT NO 1:4
+============
+THREADS NUMBER:2
+REPEATS NUMBER:10
+The default barrier execution time:20.004059
+The custom barrier execution time:19.005999
+MEASUREMENT NO 1:5
+============
+THREADS NUMBER:2
+REPEATS NUMBER:10
+The default barrier execution time:17.005007
+The custom barrier execution time:19.005857
+MEASUREMENT NO 1:6
+============
+THREADS NUMBER:2
+REPEATS NUMBER:10
+The default barrier execution time:16.004196
+The custom barrier execution time:17.004286
+MEASUREMENT NO 1:7
+============
+THREADS NUMBER:2
+REPEATS NUMBER:10
+The default barrier execution time:15.005150
+The custom barrier execution time:16.005272
+MEASUREMENT NO 1:8
+============
+THREADS NUMBER:2
+REPEATS NUMBER:10
+The default barrier execution time:18.005737
+The custom barrier execution time:16.003246
+MEASUREMENT NO 1:9
+============
+THREADS NUMBER:2
+REPEATS NUMBER:10
+The default barrier execution time:19.004469
+The custom barrier execution time:15.006639
+MEASUREMENT NO 1:10
+============
+THREADS NUMBER:2
+REPEATS NUMBER:10
+The default barrier execution time:16.004501
+The custom barrier execution time:17.004725
+Average execution time for default barrier after 10 measurements:17.105701
+Average execution time for custom barrier after 10 measurements:17.405029
+Difference between default barrier exec time and custom barrier exec time:-0.299328
+MEASUREMENT NO 2:1
+============
+THREADS NUMBER:4
+REPEATS NUMBER:20
+The default barrier execution time:38.012684
+The custom barrier execution time:39.013035
+MEASUREMENT NO 2:2
+============
+THREADS NUMBER:4
+REPEATS NUMBER:20
+The default barrier execution time:39.011391
+The custom barrier execution time:40.014633
+MEASUREMENT NO 2:3
+============
+THREADS NUMBER:4
+REPEATS NUMBER:20
+The default barrier execution time:39.010464
+The custom barrier execution time:40.011078
+MEASUREMENT NO 2:4
+============
+THREADS NUMBER:4
+REPEATS NUMBER:20
+The default barrier execution time:40.012363
+The custom barrier execution time:39.011959
+MEASUREMENT NO 2:5
+============
+THREADS NUMBER:4
+REPEATS NUMBER:20
+The default barrier execution time:40.011086
+The custom barrier execution time:39.013981
+MEASUREMENT NO 2:6
+============
+THREADS NUMBER:4
+REPEATS NUMBER:20
+The default barrier execution time:39.010693
+The custom barrier execution time:38.012787
+MEASUREMENT NO 2:7
+============
+THREADS NUMBER:4
+REPEATS NUMBER:20
+The default barrier execution time:39.012383
+The custom barrier execution time:38.013947
+MEASUREMENT NO 2:8
+============
+THREADS NUMBER:4
+REPEATS NUMBER:20
+The default barrier execution time:37.010990
+The custom barrier execution time:38.012257
+MEASUREMENT NO 2:9
+============
+THREADS NUMBER:4
+REPEATS NUMBER:20
+The default barrier execution time:40.010551
+The custom barrier execution time:37.015274
+MEASUREMENT NO 2:10
+============
+THREADS NUMBER:4
+REPEATS NUMBER:20
+The default barrier execution time:36.012894
+The custom barrier execution time:36.014805
+Average execution time for default barrier after 10 measurements:38.711548
+Average execution time for custom barrier after 10 measurements:38.413376
+Difference between default barrier exec time and custom barrier exec time:0.298172
+MEASUREMENT NO 3:1
+============
+THREADS NUMBER:8
+REPEATS NUMBER:30
+The default barrier execution time:60.043999
+The custom barrier execution time:60.036278
+MEASUREMENT NO 3:2
+============
+THREADS NUMBER:8
+REPEATS NUMBER:30
+The default barrier execution time:60.027905
+The custom barrier execution time:60.057732
+MEASUREMENT NO 3:3
+============
+THREADS NUMBER:8
+REPEATS NUMBER:30
+The default barrier execution time:60.019306
+The custom barrier execution time:60.030334
+MEASUREMENT NO 3:4
+============
+THREADS NUMBER:8
+REPEATS NUMBER:30
+The default barrier execution time:60.026421
+The custom barrier execution time:60.035648
+MEASUREMENT NO 3:5
+============
+THREADS NUMBER:8
+REPEATS NUMBER:30
+The default barrier execution time:60.022499
+The custom barrier execution time:60.031136
+MEASUREMENT NO 3:6
+============
+THREADS NUMBER:8
+REPEATS NUMBER:30
+The default barrier execution time:60.021927
+The custom barrier execution time:60.031807
+MEASUREMENT NO 3:7
+============
+THREADS NUMBER:8
+REPEATS NUMBER:30
+The default barrier execution time:60.020607
+The custom barrier execution time:60.043758
+MEASUREMENT NO 3:8
+============
+THREADS NUMBER:8
+REPEATS NUMBER:30
+The default barrier execution time:60.020733
+The custom barrier execution time:60.044296
+MEASUREMENT NO 3:9
+============
+THREADS NUMBER:8
+REPEATS NUMBER:30
+The default barrier execution time:60.024979
+The custom barrier execution time:60.029522
+MEASUREMENT NO 3:10
+============
+THREADS NUMBER:8
+REPEATS NUMBER:30
+The default barrier execution time:60.025745
+The custom barrier execution time:60.032726
+Average execution time for default barrier after 10 measurements:60.025410
+Average execution time for custom barrier after 10 measurements:60.037323
+Difference between default barrier exec time and custom barrier exec time:-0.011913
+MEASUREMENT NO 4:1
+============
+THREADS NUMBER:10
+REPEATS NUMBER:40
+The default barrier execution time:80.032211
+The custom barrier execution time:80.049149
+MEASUREMENT NO 4:2
+============
+THREADS NUMBER:10
+REPEATS NUMBER:40
+The default barrier execution time:80.035408
+The custom barrier execution time:80.052780
+MEASUREMENT NO 4:3
+============
+THREADS NUMBER:10
+REPEATS NUMBER:40
+The default barrier execution time:80.040680
+The custom barrier execution time:80.055389
+MEASUREMENT NO 4:4
+============
+THREADS NUMBER:10
+REPEATS NUMBER:40
+The default barrier execution time:80.041946
+The custom barrier execution time:80.064995
+MEASUREMENT NO 4:5
+============
+THREADS NUMBER:10
+REPEATS NUMBER:40
+The default barrier execution time:80.043976
+The custom barrier execution time:80.057480
+MEASUREMENT NO 4:6
+============
+THREADS NUMBER:10
+REPEATS NUMBER:40
+The default barrier execution time:80.040207
+The custom barrier execution time:80.047142
+MEASUREMENT NO 4:7
+============
+THREADS NUMBER:10
+REPEATS NUMBER:40
+The default barrier execution time:80.038284
+The custom barrier execution time:80.050369
+MEASUREMENT NO 4:8
+============
+THREADS NUMBER:10
+REPEATS NUMBER:40
+The default barrier execution time:80.035904
+The custom barrier execution time:80.051376
+MEASUREMENT NO 4:9
+============
+THREADS NUMBER:10
+REPEATS NUMBER:40
+The default barrier execution time:80.038399
+The custom barrier execution time:80.046257
+MEASUREMENT NO 4:10
+============
+THREADS NUMBER:10
+REPEATS NUMBER:40
+The default barrier execution time:80.037529
+The custom barrier execution time:80.049164
+Average execution time for default barrier after 10 measurements:80.038452
+Average execution time for custom barrier after 10 measurements:80.052414
+Difference between default barrier exec time and custom barrier exec time:-0.013962
